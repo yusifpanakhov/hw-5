@@ -1,0 +1,47 @@
+.purple{
+    height: 500px;
+    width: 200px;
+    background-color: blueviolet;
+    position: absolute;
+    bottom: 480px;
+}
+
+.ps{
+    position: absolute;
+    top: 200px;
+    margin-left: 125px;
+}
+
+.black{
+    height: 500px;
+    width: 250px;
+    background-color: rgb(36, 36, 36);
+    position: absolute;
+    bottom: 481px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.PS5{
+    display: flex;
+    justify-content:center;
+    position: absolute;
+    bottom: 260px;
+    left: 50px;
+    color: white;
+}
+
+.XBOXX{
+    display: flex;
+    justify-content:center;
+    position: absolute;
+    bottom: 260px;
+    left: 10px;
+    color: white;
+}
+
+.button1{
+    
+}
